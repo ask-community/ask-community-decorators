@@ -27,3 +27,4 @@ Here are the available decorators:
 * [@CanHandleLaunchRequest](./docs/CanHandleLaunchRequest.md)
 * [@CanHandleIntentRequest](./docs/CanHandleIntentRequest.md)
 * [@CanHandleSessionEndedRequest](./docs/CanHandleSessionEndedRequest.md)
+* [@CanHandleSkillEventRequests](./docs/CanHandleSkillEventRequests.md)

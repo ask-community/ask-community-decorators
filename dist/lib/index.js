@@ -6,3 +6,5 @@ var CanHandleLaunchRequest_1 = require("./decorators/CanHandleLaunchRequest");
 exports.CanHandleLaunchRequest = CanHandleLaunchRequest_1.CanHandleLaunchRequest;
 var CanHandleSessionEndedRequest_1 = require("./decorators/CanHandleSessionEndedRequest");
 exports.CanHandleSessionEndedRequest = CanHandleSessionEndedRequest_1.CanHandleSessionEndedRequest;
+var CanHandleSkillEventRequests_1 = require("./decorators/CanHandleSkillEventRequests");
+exports.CanHandleSkillEventRequests = CanHandleSkillEventRequests_1.CanHandleSkillEventRequests;
