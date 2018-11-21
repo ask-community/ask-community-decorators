@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/rmtuckerphx/ask-community-decorators.svg?branch=master)](https://travis-ci.org/rmtuckerphx/ask-community-decorators)
-[![Coverage Status](https://img.shields.io/coveralls/github/rmtuckerphx/ask-community-decorators.svg)](https://coveralls.io/github/rmtuckerphx/ask-community-decorators?branch=master)
+[![Build Status](https://travis-ci.org/ask-community/ask-community-decorators.svg?branch=master)](https://travis-ci.org/ask-community/ask-community-decorators)
+[![Coverage Status](https://img.shields.io/coveralls/github/ask-community/ask-community-decorators.svg)](https://coveralls.io/github/ask-community/ask-community-decorators?branch=master)
 
 [![NPM Version](https://img.shields.io/npm/v/ask-community-decorators.svg)](https://www.npmjs.com/package/ask-community-decorators)
 [![NPM Downloads](https://img.shields.io/npm/dt/ask-community-decorators.svg)](https://www.npmjs.com/package/ask-community-decorators)
