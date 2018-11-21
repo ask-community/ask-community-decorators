@@ -1,6 +1,6 @@
 {
   "name": "ask-community-decorators",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "TypeScript decorators for Alexa projects built with the ASK SDK",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

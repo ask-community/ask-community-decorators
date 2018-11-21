@@ -8,7 +8,7 @@
 
 This library provides TypeScript decorators to use in building Alexa skills with the [ASK SDK v2](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs). 
 
-For a template of creating skills with TypeScript, check out [martinabrahams/alexa-ask-sdk-typescript-boilerplate](https://github.com/martinabrahams/alexa-ask-sdk-typescript-boilerplate).
+For a Hello World starter template showing how to create an Alexa skill with TypeScript, ASK SDK v2, and ASK CLI, check out [ask-community/ask-nodejs-ts-hello-world](https://github.com/ask-community/ask-nodejs-ts-hello-world).
 
 ## License
 
